@@ -1,0 +1,22 @@
+.header {
+    width: 100%;
+    max-height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #44aec9;
+}
+
+.header > img {
+    height: 8vh;
+    width: 8vh;
+    margin-right: 1rem;
+    border-radius: 50%;
+}
+
+.header > h1 {
+    font-weight: bold;
+    font-size: 3rem;
+    color: #4f4d4d;
+    font: 'Lucida Handwriting';
+}
