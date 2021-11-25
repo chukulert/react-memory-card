@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-memory-card/static/css/main.19e334f9.chunk.css",
+    "main.js": "/react-memory-card/static/js/main.adfa0c65.chunk.js",
+    "main.js.map": "/react-memory-card/static/js/main.adfa0c65.chunk.js.map",
+    "runtime-main.js": "/react-memory-card/static/js/runtime-main.6a1f04e8.js",
+    "runtime-main.js.map": "/react-memory-card/static/js/runtime-main.6a1f04e8.js.map",
+    "static/js/2.17b85a7a.chunk.js": "/react-memory-card/static/js/2.17b85a7a.chunk.js",
+    "static/js/2.17b85a7a.chunk.js.map": "/react-memory-card/static/js/2.17b85a7a.chunk.js.map",
+    "index.html": "/react-memory-card/index.html",
+    "static/css/main.19e334f9.chunk.css.map": "/react-memory-card/static/css/main.19e334f9.chunk.css.map",
+    "static/js/2.17b85a7a.chunk.js.LICENSE.txt": "/react-memory-card/static/js/2.17b85a7a.chunk.js.LICENSE.txt",
+    "static/media/food-icon.0e171bba.png": "/react-memory-card/static/media/food-icon.0e171bba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a1f04e8.js",
+    "static/js/2.17b85a7a.chunk.js",
+    "static/css/main.19e334f9.chunk.css",
+    "static/js/main.adfa0c65.chunk.js"
+  ]
+}
